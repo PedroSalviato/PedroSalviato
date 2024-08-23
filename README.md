@@ -6,5 +6,4 @@
  
 - 🧑‍🎓 Sou formado em Administração
 - 📈 Trabalho com dados desde 2020
-- 🧰 Tenho conhecimento e prática em: Excel, Power BI, SQL e Pentaho
-- 📜 Atualmente venho estudando Python, Linguagem R e Machine Learning
+- 🧰 Tenho conhecimento e prática em: Excel, Power BI, SQL e Pentao
